@@ -1,4 +1,5 @@
 # mimi-333.github.io
+Webで動くものをまとめています。
 
 [定期券お得度チェッカー](https://mimi-333.github.io/PassCostComparator/)
 
