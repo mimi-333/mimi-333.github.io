@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 
-* M.S. in Information Science and Technology, Hiroshima City University, 2025(expected)
-* B.S. in Information Science and Technology, Hiroshima City University, 2023
+* M.S. in Information Sciences, Hiroshima City University, 2025
+* B.S. in Information Sciences, Hiroshima City University, 2023
   
 Programming Skills
 ======
