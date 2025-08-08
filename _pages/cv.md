@@ -12,9 +12,10 @@ redirect_from:
 Education
 ======
 
-* M.S. in Information Sciences, Hiroshima City University, 2025
-* B.S. in Information Sciences, Hiroshima City University, 2023
-  
+* B.E. in Intelligent Systems Engineering — Hiroshima City University, 2023  
+* M.E. in Intelligent Systems Engineering — Hiroshima City University, 2025  
+* Ph.D. Program (1st year) — Graduate School of Information Sciences, Hiroshima City University
+
 Programming Skills
 ======
 * Python
@@ -38,3 +39,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Certifications
+======
+* Passed Fundamental Information Technology Engineer Examination
+* Passed Applied Information Technology Engineer Examination
