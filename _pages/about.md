@@ -7,4 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second-year master's student in the Graduate School of Hiroshima City University, majoring in Information Science. My research interests focus on personalized dialogue systems.
+## Short Bio
+I am a first-year Ph.D. student in the Graduate School of Information Sciences  
+at Hiroshima City University. My research interests focus on personalized dialogue systems.
